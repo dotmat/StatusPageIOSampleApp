@@ -2,6 +2,8 @@
 
 Sample App that reads the URL of a StatusPageIO customer and presents the information in an easy to read format for use on an iOS platform.
 
+![Alt text](SampleImage.png?raw=true "Sample Summary Page")
+
 ## Background
 A lot of companies use StatusPageIO (https://www.statuspage.io) to host and present status information on Servers, platforms, API's and other services used by a lot of consumers. 
 Several examples of customers are: 
