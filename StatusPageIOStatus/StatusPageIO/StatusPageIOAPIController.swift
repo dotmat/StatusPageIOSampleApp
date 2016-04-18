@@ -1,6 +1,6 @@
 //
 //  StatusPageIOAPIController.swift
-//  CloudFlareStatus
+//  
 //
 //  Created by Mathew Jenkinson on 09/03/2016.
 //  Copyright © 2016 Mathew Jenkinson. All rights reserved.
